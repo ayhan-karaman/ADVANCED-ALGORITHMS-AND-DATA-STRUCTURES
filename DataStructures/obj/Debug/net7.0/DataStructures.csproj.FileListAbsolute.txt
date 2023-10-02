@@ -1,0 +1,15 @@
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/bin/Debug/net7.0/DataStructures.deps.json
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/bin/Debug/net7.0/DataStructures.dll
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/bin/Debug/net7.0/DataStructures.pdb
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/obj/Debug/net7.0/DataStructures.csproj.AssemblyReference.cache
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/obj/Debug/net7.0/DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/obj/Debug/net7.0/DataStructures.AssemblyInfoInputs.cache
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/obj/Debug/net7.0/DataStructures.AssemblyInfo.cs
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/obj/Debug/net7.0/DataStructures.csproj.CoreCompileInputs.cache
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/obj/Debug/net7.0/DataStructures.dll
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/obj/Debug/net7.0/refint/DataStructures.dll
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/obj/Debug/net7.0/DataStructures.pdb
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/obj/Debug/net7.0/ref/DataStructures.dll
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/bin/Debug/net7.0/CustomTypes.dll
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/bin/Debug/net7.0/CustomTypes.pdb
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/obj/Debug/net7.0/DataStructures.csproj.CopyComplete

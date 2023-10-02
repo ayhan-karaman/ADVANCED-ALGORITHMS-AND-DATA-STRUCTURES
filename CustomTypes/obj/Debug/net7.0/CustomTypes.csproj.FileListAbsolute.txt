@@ -1,0 +1,12 @@
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/bin/Debug/net7.0/CustomTypes.deps.json
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/bin/Debug/net7.0/CustomTypes.dll
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/bin/Debug/net7.0/CustomTypes.pdb
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/obj/Debug/net7.0/CustomTypes.csproj.AssemblyReference.cache
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/obj/Debug/net7.0/CustomTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/obj/Debug/net7.0/CustomTypes.AssemblyInfoInputs.cache
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/obj/Debug/net7.0/CustomTypes.AssemblyInfo.cs
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/obj/Debug/net7.0/CustomTypes.csproj.CoreCompileInputs.cache
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/obj/Debug/net7.0/CustomTypes.dll
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/obj/Debug/net7.0/refint/CustomTypes.dll
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/obj/Debug/net7.0/CustomTypes.pdb
+/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/obj/Debug/net7.0/ref/CustomTypes.dll

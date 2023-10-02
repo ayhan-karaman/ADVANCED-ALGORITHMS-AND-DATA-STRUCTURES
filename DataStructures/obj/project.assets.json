@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "CustomTypes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CustomTypes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomTypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomTypes/1.0.0": {
+      "type": "project",
+      "path": "../CustomTypes/CustomTypes.csproj",
+      "msbuildProject": "../CustomTypes/CustomTypes.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CustomTypes >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ayhankaraman/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/DataStructures.csproj",
+      "projectName": "DataStructures",
+      "projectPath": "/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/DataStructures.csproj",
+      "packagesPath": "/Users/ayhankaraman/.nuget/packages/",
+      "outputPath": "/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/DataStructures/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ayhankaraman/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/CustomTypes.csproj": {
+              "projectPath": "/Users/ayhankaraman/Desktop/DotNetCore-Works/AlgorithmsAndDataStructuresBtkAkademi/CustomTypes/CustomTypes.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.305/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

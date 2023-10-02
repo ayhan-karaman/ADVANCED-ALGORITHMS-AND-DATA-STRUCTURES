@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DataStructures/1.0.0": {
+        "dependencies": {
+          "CustomTypes": "1.0.0"
+        },
+        "runtime": {
+          "DataStructures.dll": {}
+        }
+      },
+      "CustomTypes/1.0.0": {
+        "runtime": {
+          "CustomTypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
